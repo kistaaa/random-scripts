@@ -1,0 +1,6 @@
+- var types = ["Array","Block","Boolean","Date","Datetime","Document","File","Geopoint","Image","Number","Object","Reference","Slug","String","Span","Text","URL"];
+
+label(for="type") Type
+select(id='type')
+  for name in types
+    option(value=name) #{name}
