@@ -1,2 +1,2 @@
 # Random-scripts
-A place to store many snippet scripts
+A place to store snippet scripts
